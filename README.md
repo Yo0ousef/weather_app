@@ -1,16 +1,7 @@
 # weather_app
 
-A new Flutter project.
+A comprehensive Flutter application designed to display real-time weather conditions for any country the user searches.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application's theme dynamically changes to reflect the current weather.
+For instance, if the weather is sunny, the interface will adopt a bright, cheerful yellow theme. 
+Conversely, if it's raining, the theme will shift to a soothing blue to mimic the rainy atmosphere.
